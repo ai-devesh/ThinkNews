@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+flex {
+    justify-content: center;
+    flex-wrap: wrap;
+}
